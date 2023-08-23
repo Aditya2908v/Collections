@@ -1,0 +1,14 @@
+Collection Framework - from JDK 1.2
+
+Collection Framework - 1) Collection Interface
+                       2) Map Interface
+
+Advantages of collection Framework
+    -> common set of methods
+    -> Reduces programming effort
+    -> Increases program speed and quality
+
+Three of the most useful implementations are
+    1) List, implemented as ArrayList
+    2) Map, implemented as HashMap
+    3) Set, implemented as HashSet
